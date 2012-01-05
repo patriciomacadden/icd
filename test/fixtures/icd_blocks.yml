@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  first_code: MyString
+  last_code: MyString
+  title: MyString
+  icd_chapter: 
+
+two:
+  first_code: MyString
+  last_code: MyString
+  title: MyString
+  icd_chapter: 

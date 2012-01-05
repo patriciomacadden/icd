@@ -1,0 +1,264 @@
+FIRST_CODE;LAST_CODE;CHAPTER_CODE;TITLE
+A00;A09;01;Intestinal infectious diseases
+A15;A19;01;Tuberculosis
+A20;A28;01;Certain zoonotic bacterial diseases
+A30;A49;01;Other bacterial diseases
+A50;A64;01;Infections with a predominantly sexual mode of transmission
+A65;A69;01;Other spirochaetal diseases
+A70;A74;01;Other diseases caused by chlamydiae
+A75;A79;01;Rickettsioses
+A80;A89;01;Viral infections of the central nervous system
+A90;A99;01;Arthropod-borne viral fevers and viral haemorrhagic fevers
+B00;B09;01;Viral infections characterized by skin and mucous membrane lesions
+B15;B19;01;Viral hepatitis
+B20;B24;01;Human immunodeficiency virus [HIV] disease
+B25;B34;01;Other viral diseases
+B35;B49;01;Mycoses
+B50;B64;01;Protozoal diseases
+B65;B83;01;Helminthiases
+B85;B89;01;Pediculosis, acariasis and other infestations
+B90;B94;01;Sequelae of infectious and parasitic diseases
+B95;B98;01;Bacterial, viral and other infectious agents
+B99;B99;01;Other infectious diseases
+C00;C14;02;Malignant neoplasms of lip, oral cavity and pharynx
+C15;C26;02;Malignant neoplasms of digestive organs
+C30;C39;02;Malignant neoplasms of respiratory and intrathoracic organs
+C40;C41;02;Malignant neoplasms of bone and articular cartilage
+C43;C44;02;Melanoma and other malignant neoplasms of skin
+C45;C49;02;Malignant neoplasms of mesothelial and soft tissue
+C50;C50;02;Malignant neoplasm of breast
+C51;C58;02;Malignant neoplasms of female genital organs
+C60;C63;02;Malignant neoplasms of male genital organs
+C64;C68;02;Malignant neoplasms of urinary tract
+C69;C72;02;Malignant neoplasms of eye, brain and other parts of central nervous system
+C73;C75;02;Malignant neoplasms of thyroid and other endocrine glands
+C76;C80;02;Malignant neoplasms of ill-defined, secondary and unspecified sites
+C81;C96;02;Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue
+C97;C97;02;Malignant neoplasms of independent (primary) multiple sites
+D00;D09;02;In situ neoplasms
+D10;D36;02;Benign neoplasms
+D37;D48;02;Neoplasms of uncertain or unknown behaviour
+D50;D53;03;Nutritional anaemias
+D55;D59;03;Haemolytic anaemias
+D60;D64;03;Aplastic and other anaemias
+D65;D69;03;Coagulation defects, purpura and other haemorrhagic conditions
+D70;D77;03;Other diseases of blood and blood-forming organs
+D80;D89;03;Certain disorders involving the immune mechanism
+E00;E07;04;Disorders of thyroid gland
+E10;E14;04;Diabetes mellitus
+E15;E16;04;Other disorders of glucose regulation and pancreatic internal secretion
+E20;E35;04;Disorders of other endocrine glands
+E40;E46;04;Malnutrition
+E50;E64;04;Other nutritional deficiencies
+E65;E68;04;Obesity and other hyperalimentation
+E70;E90;04;Metabolic disorders
+F00;F09;05;Organic, including symptomatic, mental disorders
+F10;F19;05;Mental and behavioural disorders due to psychoactive substance use
+F20;F29;05;Schizophrenia, schizotypal and delusional disorders
+F30;F39;05;Mood [affective] disorders
+F40;F48;05;Neurotic, stress-related and somatoform disorders
+F50;F59;05;Behavioural syndromes associated with physiological disturbances and physical factors
+F60;F69;05;Disorders of adult personality and behaviour
+F70;F79;05;Mental retardation
+F80;F89;05;Disorders of psychological development
+F90;F98;05;Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F99;F99;05;Unspecified mental disorder
+G00;G09;06;Inflammatory diseases of the central nervous system
+G10;G14;06;Systemic atrophies primarily affecting the central nervous system
+G20;G26;06;Extrapyramidal and movement disorders
+G30;G32;06;Other degenerative diseases of the nervous system
+G35;G37;06;Demyelinating diseases of the central nervous system
+G40;G47;06;Episodic and paroxysmal disorders
+G50;G59;06;Nerve, nerve root and plexus disorders
+G60;G64;06;Polyneuropathies and other disorders of the peripheral nervous system
+G70;G73;06;Diseases of myoneural junction and muscle
+G80;G83;06;Cerebral palsy and other paralytic syndromes
+G90;G99;06;Other disorders of the nervous system
+H00;H06;07;Disorders of eyelid, lacrimal system and orbit
+H10;H13;07;Disorders of conjunctiva
+H15;H22;07;Disorders of sclera, cornea, iris and ciliary body
+H25;H28;07;Disorders of lens
+H30;H36;07;Disorders of choroid and retina
+H40;H42;07;Glaucoma
+H43;H45;07;Disorders of vitreous body and globe
+H46;H48;07;Disorders of optic nerve and visual pathways
+H49;H52;07;Disorders of ocular muscles, binocular movement, accommodation and refraction
+H53;H54;07;Visual disturbances and blindness
+H55;H59;07;Other disorders of eye and adnexa
+H60;H62;08;Diseases of external ear
+H65;H75;08;Diseases of middle ear and mastoid
+H80;H83;08;Diseases of inner ear
+H90;H95;08;Other disorders of ear
+I00;I02;09;Acute rheumatic fever
+I05;I09;09;Chronic rheumatic heart diseases
+I10;I15;09;Hypertensive diseases
+I20;I25;09;Ischaemic heart diseases
+I26;I28;09;Pulmonary heart disease and diseases of pulmonary circulation
+I30;I52;09;Other forms of heart disease
+I60;I69;09;Cerebrovascular diseases
+I70;I79;09;Diseases of arteries, arterioles and capillaries
+I80;I89;09;Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified
+I95;I99;09;Other and unspecified disorders of the circulatory system
+J00;J06;10;Acute upper respiratory infections
+J09;J18;10;Influenza and pneumonia
+J20;J22;10;Other acute lower respiratory infections
+J30;J39;10;Other diseases of upper respiratory tract
+J40;J47;10;Chronic lower respiratory diseases
+J60;J70;10;Lung diseases due to external agents
+J80;J84;10;Other respiratory diseases principally affecting the interstitium
+J85;J86;10;Suppurative and necrotic conditions of lower respiratory tract
+J90;J94;10;Other diseases of pleura
+J95;J99;10;Other diseases of the respiratory system
+K00;K14;11;Diseases of oral cavity, salivary glands and jaws
+K20;K31;11;Diseases of oesophagus, stomach and duodenum
+K35;K38;11;Diseases of appendix
+K40;K46;11;Hernia
+K50;K52;11;Noninfective enteritis and colitis
+K55;K63;11;Other diseases of intestines
+K65;K67;11;Diseases of peritoneum
+K70;K77;11;Diseases of liver
+K80;K87;11;Disorders of gallbladder, biliary tract and pancreas
+K90;K93;11;Other diseases of the digestive system
+L00;L08;12;Infections of the skin and subcutaneous tissue
+L10;L14;12;Bullous disorders
+L20;L30;12;Dermatitis and eczema
+L40;L45;12;Papulosquamous disorders
+L50;L54;12;Urticaria and erythema
+L55;L59;12;Radiation-related disorders of the skin and subcutaneous tissue
+L60;L75;12;Disorders of skin appendages
+L80;L99;12;Other disorders of the skin and subcutaneous tissue
+M00;M03;13;Infectious arthropathies
+M05;M14;13;Inflammatory polyarthropathies
+M15;M19;13;Arthrosis
+M20;M25;13;Other joint disorders
+M30;M36;13;Systemic connective tissue disorders
+M40;M43;13;Deforming dorsopathies
+M45;M49;13;Spondylopathies
+M50;M54;13;Other dorsopathies
+M60;M63;13;Disorders of muscles
+M65;M68;13;Disorders of synovium and tendon
+M70;M79;13;Other soft tissue disorders
+M80;M85;13;Disorders of bone density and structure
+M86;M90;13;Other osteopathies
+M91;M94;13;Chondropathies
+M95;M99;13;Other disorders of the musculoskeletal system and connective tissue
+N00;N08;14;Glomerular diseases
+N10;N16;14;Renal tubulo-interstitial diseases
+N17;N19;14;Renal failure
+N20;N23;14;Urolithiasis
+N25;N29;14;Other disorders of kidney and ureter
+N30;N39;14;Other diseases of urinary system
+N40;N51;14;Diseases of male genital organs
+N60;N64;14;Disorders of breast
+N70;N77;14;Inflammatory diseases of female pelvic organs
+N80;N98;14;Noninflammatory disorders of female genital tract
+N99;N99;14;Other disorders of the genitourinary system
+O00;O08;15;Pregnancy with abortive outcome
+O10;O16;15;Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium
+O20;O29;15;Other maternal disorders predominantly related to pregnancy
+O30;O48;15;Maternal care related to the fetus and amniotic cavity and possible delivery problems
+O60;O75;15;Complications of labour and delivery
+O80;O84;15;Delivery
+O85;O92;15;Complications predominantly related to the puerperium
+O94;O99;15;Other obstetric conditions, not elsewhere classified
+P00;P04;16;Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery
+P05;P08;16;Disorders related to length of gestation and fetal growth
+P10;P15;16;Birth trauma
+P20;P29;16;Respiratory and cardiovascular disorders specific to the perinatal period
+P35;P39;16;Infections specific to the perinatal period
+P50;P61;16;Haemorrhagic and haematological disorders of fetus and newborn
+P70;P74;16;Transitory endocrine and metabolic disorders specific to fetus and newborn
+P75;P78;16;Digestive system disorders of fetus and newborn
+P80;P83;16;Conditions involving the integument and temperature regulation of fetus and newborn
+P90;P96;16;Other disorders originating in the perinatal period
+Q00;Q07;17;Congenital malformations of the nervous system
+Q10;Q18;17;Congenital malformations of eye, ear, face and neck
+Q20;Q28;17;Congenital malformations of the circulatory system
+Q30;Q34;17;Congenital malformations of the respiratory system
+Q35;Q37;17;Cleft lip and cleft palate
+Q38;Q45;17;Other congenital malformations of the digestive system
+Q50;Q56;17;Congenital malformations of genital organs
+Q60;Q64;17;Congenital malformations of the urinary system
+Q65;Q79;17;Congenital malformations and deformations of the musculoskeletal system
+Q80;Q89;17;Other congenital malformations
+Q90;Q99;17;Chromosomal abnormalities, not elsewhere classified
+R00;R09;18;Symptoms and signs involving the circulatory and respiratory systems
+R10;R19;18;Symptoms and signs involving the digestive system and abdomen
+R20;R23;18;Symptoms and signs involving the skin and subcutaneous tissue
+R25;R29;18;Symptoms and signs involving the nervous and musculoskeletal systems
+R30;R39;18;Symptoms and signs involving the urinary system
+R40;R46;18;Symptoms and signs involving cognition, perception, emotional state and behaviour
+R47;R49;18;Symptoms and signs involving speech and voice
+R50;R69;18;General symptoms and signs
+R70;R79;18;Abnormal findings on examination of blood, without diagnosis
+R80;R82;18;Abnormal findings on examination of urine, without diagnosis
+R83;R89;18;Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis
+R90;R94;18;Abnormal findings on diagnostic imaging and in function studies, without diagnosis
+R95;R99;18;Ill-defined and unknown causes of mortality
+S00;S09;19;Injuries to the head
+S10;S19;19;Injuries to the neck
+S20;S29;19;Injuries to the thorax
+S30;S39;19;Injuries to the abdomen, lower back, lumbar spine and pelvis
+S40;S49;19;Injuries to the shoulder and upper arm
+S50;S59;19;Injuries to the elbow and forearm
+S60;S69;19;Injuries to the wrist and hand
+S70;S79;19;Injuries to the hip and thigh
+S80;S89;19;Injuries to the knee and lower leg
+S90;S99;19;Injuries to the ankle and foot
+T00;T07;19;Injuries involving multiple body regions
+T08;T14;19;Injuries to unspecified part of trunk, limb or body region
+T15;T19;19;Effects of foreign body entering through natural orifice
+T20;T25;19;Burns and corrosions of external body surface, specified by site
+T26;T28;19;Burns and corrosions confined to eye and internal organs
+T29;T32;19;Burns and corrosions of multiple and unspecified body regions
+T33;T35;19;Frostbite
+T36;T50;19;Poisoning by drugs, medicaments and biological substances
+T51;T65;19;Toxic effects of substances chiefly nonmedicinal as to source
+T66;T78;19;Other and unspecified effects of external causes
+T79;T79;19;Certain early complications of trauma
+T80;T88;19;Complications of surgical and medical care, not elsewhere classified
+T90;T98;19;Sequelae of injuries, of poisoning and of other consequences of external causes
+V01;V09;20;Pedestrian injured in transport accident
+V10;V19;20;Pedal cyclist injured in transport accident
+V20;V29;20;Motorcycle rider injured in transport accident
+V30;V39;20;Occupant of three-wheeled motor vehicle injured in transport accident
+V40;V49;20;Car occupant injured in transport accident
+V50;V59;20;Occupant of pick-up truck or van injured in transport accident
+V60;V69;20;Occupant of heavy transport vehicle injured in transport accident
+V70;V79;20;Bus occupant injured in transport accident
+V80;V89;20;Other land transport accidents
+V90;V94;20;Water transport accidents
+V95;V97;20;Air and space transport accidents
+V98;V99;20;Other and unspecified transport accidents
+W00;W19;20;Falls
+W20;W49;20;Exposure to inanimate mechanical forces
+W50;W64;20;Exposure to animate mechanical forces
+W65;W74;20;Accidental drowning and submersion
+W75;W84;20;Other accidental threats to breathing
+W85;W99;20;Exposure to electric current, radiation and extreme ambient air temperature and pressure
+X00;X09;20;Exposure to smoke, fire and flames
+X10;X19;20;Contact with heat and hot substances
+X20;X29;20;Contact with venomous animals and plants
+X30;X39;20;Exposure to forces of nature
+X40;X49;20;Accidental poisoning by and exposure to noxious substances
+X50;X57;20;Overexertion, travel and privation
+X58;X59;20;Accidental exposure to other and unspecified factors
+X60;X84;20;Intentional self-harm
+X85;Y09;20;Assault
+Y10;Y34;20;Event of undetermined intent
+Y35;Y36;20;Legal intervention and operations of war
+Y40;Y59;20;Drugs, medicaments and biological substances causing adverse effects in therapeutic use
+Y60;Y69;20;Misadventures to patients during surgical and medical care
+Y70;Y82;20;Medical devices associated with adverse incidents in diagnostic and therapeutic use
+Y83;Y84;20;Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure
+Y85;Y89;20;Sequelae of external causes of morbidity and mortality
+Y90;Y98;20;Supplementary factors related to causes of morbidity and mortality classified elsewhere
+Z00;Z13;21;Persons encountering health services for examination and investigation
+Z20;Z29;21;Persons with potential health hazards related to communicable diseases
+Z30;Z39;21;Persons encountering health services in circumstances related to reproduction
+Z40;Z54;21;Persons encountering health services for specific procedures and health care
+Z55;Z65;21;Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+Z70;Z76;21;Persons encountering health services in other circumstances
+Z80;Z99;21;Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+U00;U49;22;Provisional assignment of new diseases of uncertain etiology
+U80;U89;22;Bacterial agents resistant to antibiotics

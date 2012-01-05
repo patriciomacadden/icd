@@ -1,0 +1,23 @@
+CODE;TITLE
+01;Ciertas enfermedades infecciosas y parasitarias
+02;Neoplasias
+03;Enfermedades de la sangre y órganos hematopoyéticos y ciertos trastornos que afectan el mecanismo de la inmunidad
+04;Enfermedades endocrinas, nutricionales y metabólicas
+05;Los trastornos mentales y del comportamiento
+06;Enfermedades del sistema nervioso
+07;Enfermedades del ojo y sus anexos
+08;Enfermedades del oído y apófisis mastoides
+09;Enfermedades del sistema circulatorio
+10;Enfermedades del sistema respiratorio
+11;Enfermedades del sistema digestivo
+12;Enfermedades de la piel y del tejido subcutáneo
+13;Las enfermedades del sistema osteomuscular y del tejido conjuntivo
+14;Enfermedades del sistema genitourinario
+15;El embarazo, el parto y el puerperio
+16;Ciertas afecciones originadas en el período perinatal
+17;Malformaciones congénitas, deformidades y anomalías cromosómicas
+18;Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte
+19;Lesiones, envenenamiento y algunas otras consecuencias de causas externas
+20;Las causas externas de morbilidad y mortalidad
+21;Factores que influyen en el estado de salud y el contacto con los servicios de salud
+22;Códigos para propósitos especiales

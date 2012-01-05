@@ -1,0 +1,9 @@
+<h1>Listing first level codes</h1>
+
+<ul>
+  <% @icd_first_level_codes.each do |icd_first_level_code| %>
+    <li><%= link_to icd_first_level_code, icd_chapter_icd_block_icd_first_level_code_icd_second_level_codes_path(@icd_chapter, @icd_block, icd_first_level_code) %></li>
+  <% end %>
+</ul>
+
+<%= link_to '&larr; Back to blocks list'.html_safe, icd_chapter_icd_blocks_path(@icd_chapter) %>
