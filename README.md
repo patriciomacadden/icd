@@ -29,7 +29,7 @@ Using the browser, just append `.json` to the url and it will return the data as
 
 You can use [Pentaho Data-Integration](http://kettle.pentaho.com/) to create/update the database, running the job inside `doc/kettle` (or transformations if you prefer to do it separately).
 
-* But how do I update the database?
+#### But how do I update the database?
 
 Running the kettle job will do it, but to update the database accordingly to the ICD you will need to download the zip archive with the data, and add the headers to the txt files, just as in the already downloaded ones.
 
