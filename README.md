@@ -1,3 +1,5 @@
+This project is dead, see [icd.json](https://github.com/patriciomacadden/icd.json) instead.
+
 # ICD
 
 This application holds the contents of [World Health Organization](http://www.who.int/)'s [International Classification of Diseases (ICD)](http://www.who.int/classifications/icd/en/).
