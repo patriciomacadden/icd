@@ -1,4 +1,4 @@
-*This project is dead, see [icd.json](https://github.com/patriciomacadden/icd.json) instead.*
+**This project is dead, see [icd.json](https://github.com/patriciomacadden/icd.json) instead.**
 
 # ICD
 
